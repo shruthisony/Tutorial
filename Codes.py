@@ -1,3 +1,7 @@
 #Python codes
 
-#Hello
+def add(a,b):
+    sum = a + b
+    return sum
+    
+print(sum(2,3))
